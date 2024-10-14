@@ -49,8 +49,5 @@
 ![Screenshot 2024-09-21 190609](https://github.com/user-attachments/assets/1b11221f-cd96-4e83-aae9-6f893d1f44e3)
 
 
-### Name: RAGALA SAI VIVEK
-### Register Number: 212223230163
-
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
